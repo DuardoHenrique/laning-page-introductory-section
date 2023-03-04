@@ -1,4 +1,4 @@
-@media(max-width: 1023px) {
+@media(max-width: 1100px) {
     .main {
         display: flex;
         flex-direction: column;
@@ -50,7 +50,7 @@
     }
 
     .main .icons i {
-        padding-block-start: 3px;
+        padding: 7px;
         border: 1px solid #fff;
         font-size: 12px;
     }
